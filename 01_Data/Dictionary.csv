@@ -1,0 +1,147 @@
+﻿original,updated_name,category_name
+All.other,All other,Other
+Anemone,Anemone,Other
+Benthic.Microalgae.on.Sand,Benthic Microalgae on Sand,Other
+CRED.Tape,Tape,Other
+CRED.Wand,Wand,Other
+Caulerpa,Caulerpa species,Other
+Cyanobacteria,Cyanobacteria,Other
+Cyanobacteria.smothering.dead.coral,Cyanobacteria smothering dead coral,Other
+Cymodocea.rotundata,Cymodocea sp,Cymodocea sp
+Cymodocea.serrulata,Cymodocea sp,Cymodocea sp
+Dead.seagrass,Dead seagrass,Other
+Echinoderms..Sea.stars,Echinoderms: Sea stars,Other
+Echinoderms..sea.urchin,Echinoderms: sea urchin,Other
+Halimeda,Halimeda,Other
+Halodule.uninervis,Zostera muelleri/Halodule uninervis,Zostera muelleri/Halodule uninervis
+Halophila.ovalis,Halophila ovalis,Halophila ovalis
+Halophila.spinulosa,Halophila spinulosa,Halophila spinulosa
+Hydroclathrus,Hydroclathrus,Other
+Lyngbya.majuscula,Lyngbya majuscula,Other
+Macroalgae.Other,Macroalgae Other ,Other
+Macroalgae..Articulated.calcareous..green,Macroalgae: Articulated calcareous: green,Other
+Microalgae,Microalgae,Other
+Other,Other,Other
+Other.hard.coral,Other hard coral,Other
+Other.soft.coral,Other soft coral,Other
+Out.of.focus,Out of focus,Other
+Padina,Padina,Other
+Pinna,Pinna,Other
+Sand,Sand,Other
+Sargassum,Sargassum,Other
+Sea.cucumber,Sea cucumber,Other
+Seagrass,Unknown seagrass,Unknown Seagrass
+Shadow_TWS,Shadow_TWS,Other
+Shell.hash.Gravel,Shell.hash.Gravel,Other
+Sponge,Sponge,Other
+Syringodium,Syringodium isoetifolium,Syringodium isoetifolium
+Udotea.spp.,Udotea spp.,Other
+Unknown,Unknown,Other
+Zostera.muelleri,Zostera muelleri/Halodule uninervis,Zostera muelleri/Halodule uninervis
+hard.substrate.with.turf,hard substrate with turf,Other
+muddy.sand,muddy sand,Other
+Total_SG,Total seagrass,remove
+Total_SD,Sand,remove
+Total_AL,Algae - other,remove
+Tota_Ly,Lyngbya majuscula,remove
+Total_C,Coral,remove
+Total_OT,Other,remove
+Total_SUM,All totals,remove
+Zm,Zostera muelleri/Halodule uninervis,Zostera muelleri/Halodule uninervis
+Ho,Halophila ovalis,Halophila ovalis
+Hu,Zostera muelleri/Halodule uninervis,Zostera muelleri/Halodule uninervis
+Zm_Hu,Zostera muelleri/Halodule uninervis,Zostera muelleri/Halodule uninervis
+Cr,Cymodocea rotundata,Cymodocea rotundata
+Si,Syringodium isoetifolium,Syringodium isoetifolium
+Hs,Halophila spinulosa,Halophila spinulosa
+Ly,Lyngbya majuscula,Other
+Other,Other,Other
+Sand,Sand,Other
+SUM,All totals,remove
+SG_pri,Segrass - Primary,Other
+SG_sec,Seagrass - Secondary,Other
+name,name,remove
+import,import,remove
+cover,cover,remove
+PT_type,pt type,remove
+Total_SG,Total seagrass,remove
+Total_SD,Sand,remove
+Total_AL,Algae,remove
+Tota_Ly,Lyngbya majuscula,remove
+Total_C,Coral,remove
+Total_OT,Other,remove
+Total_SUM,All totals,remove
+Zm,Zostera muelleri/Halodule uninervis,Zostera muelleri/Halodule uninervis
+Ho,Halophila ovalis,Halophila ovalis
+Hu,Zostera muelleri/Halodule uninervis,Zostera muelleri/Halodule uninervis
+Zm_Hu,Zostera muelleri/Halodule uninervis,Zostera muelleri/Halodule uninervis
+Cr,Cymodocea rotundata,Cymodocea rotundata
+Si,Syringodium isoetifolium,Syringodium isoetifolium
+Hs,Halophila spinulosa,Halophila spinulosa
+Ly,Lyngbya majuscula,Other
+Other,Other,Other
+Sand,Sand,Other
+SUM,All totals,remove
+SG_pri,Segrass - Primary,Other
+SG_sec,Seagrass - Secondary,Other
+name,name,remove
+import,import,remove
+cover,cover,remove
+PT_type,pt type,remove
+C,Coral,Other
+OAN,Anenome,Other
+OF,Other,Other
+OPI,Pinas,Other
+OSC,Sea cucumber,Other
+OSF,Starfish,Other
+OUR,Urchin,Other
+SC,Sea cucumber,Other
+SP,Sponge,Other
+OSS,Small shelves,Other
+SSD,Sand - Dark colour,Other
+SSL,Sand - Light colour,Other
+DK,Don't Know,Other
+MCS,Cyano on Sand,Other
+OD,Other Dead,Other
+OOT,Other,Other
+Shadow,Shadow,Other
+Tape,Tape,Other
+Wand,Wand,Other
+ACA,Caulerpa,Other
+ACP,Padina,Other
+AHA,Algae - HA,Other
+AHY,Hydroclatharus on Seagrass,Other
+AOT,Algae - other,Other
+ASA,Sargassum,Other
+LY,Lyngbya majuscula,Other
+MA,Macroalgae,Other
+MCO,Cyanobacteria Other,Other
+MPM,MPB-mat,Other
+MPS,MPB on Sand,Other
+UDOT,Unknown,Other
+SGCR,Cymodocea sp,Cymodocea sp
+SGCS,Cymodocea sp,Cymodocea sp
+SGD,Seagrass detritus,Other
+SGHO,Halophila ovalis,Halophila ovalis
+SGHS,Halophila spinulosa,Halophila spinulosa
+SGHU,Zostera muelleri/Halodule uninervis,Zostera muelleri/Halodule uninervis
+SGOT,Unknown seagrass,Unknown Seagrass
+SGSI,Syringodium isoetifolium,Syringodium isoetifolium
+SGZM,Zostera muelleri/Halodule uninervis,Zostera muelleri/Halodule uninervis
+T_SG,Total seagrass,remove
+T_SD,Sand,remove
+T_LY,Lyngbya majuscula,remove
+T_OT,Total other,remove
+T_SUM,All totals,remove
+Tot_SC,Total SC,remove
+Tot_Ho,Halophila ovalis,remove
+Tot_Hs,Halophila spinulosa,remove
+Tot_Zm,Zostera muelleri/Halodule uninervis,remove
+Tot_Si,Syringodium isoetifolium,remove
+Tot_SGot,Unknown seagrass,remove
+Tot_SD,Sand,remove
+Tot_LY,Lyngbya majuscula,remove
+Tot_Alg,Algae,remove
+Tot_C,Coral,remove
+Tot_Ot,Other,remove
+Tot_Sum,All totals,remove
