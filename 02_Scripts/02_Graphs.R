@@ -190,7 +190,7 @@ data_by_site <- data_by_site %>%
   dplyr:: mutate(year_month = lubridate:: ym(year_month))
 
 
-write_csv(zone_summary, "04_Supplementary_information/supplementary_table_3_transect_scale_summary.csv")
+write_csv(data_by_site, "04_Supplementary_information/supplementary_table_3_transect_scale_summary.csv")
 
 # create a plot of coverage for each individual transect and save
 
